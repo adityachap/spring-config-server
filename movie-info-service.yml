@@ -1,0 +1,4 @@
+server:
+  port: 8082
+api:
+  key: 411085f2ae96fbd5e2e58ead2a60a97a
