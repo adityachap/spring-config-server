@@ -1,0 +1,4 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: "http://EurekaSD-1385450825.us-east-1.elb.amazonaws.com/eureka"
