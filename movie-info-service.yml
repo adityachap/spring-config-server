@@ -3,6 +3,9 @@ server:
 api:
   key: 411085f2ae96fbd5e2e58ead2a60a97a
 spring:
+  application:
+    jmx:
+      default-domain: movie-info-service
   cloud:
     config:
       override-system-properties: false
