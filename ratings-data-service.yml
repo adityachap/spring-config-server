@@ -1,6 +1,9 @@
 server:
   port: 8083
 spring:
+  application:
+    jmx:
+      default-domain: ratings-data-service
   cloud:
     config:
       override-system-properties: false
