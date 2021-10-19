@@ -1,5 +1,7 @@
 server:
-  port: 8082
+   port: 8080 //set the port number of our running application
+   servlet:
+      context-path: /movie-info-service-0.0.1-SNAPSHOT
 api:
   key: 411085f2ae96fbd5e2e58ead2a60a97a
 spring:
