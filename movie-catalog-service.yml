@@ -1,5 +1,4 @@
 server:
-   port: 8080 //set the port number of our running application
    servlet:
       context-path: /movie-catalog-service-0.0.1-SNAPSHOT
 spring:
