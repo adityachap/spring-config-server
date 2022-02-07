@@ -1,6 +1,5 @@
 server:
-   servlet:
-      context-path: /movie-catalog-service-0.0.1-SNAPSHOT
+  port: 8080
 spring:
   application:
     jmx:
